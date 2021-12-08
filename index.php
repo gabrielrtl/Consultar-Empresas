@@ -23,9 +23,11 @@ ob_end_clean();
 ?>
 
 <!-- Configurações basica com formulario de envio-->
-<html>
+<html lang="pt-BR">
 <head>
     <title>Ranstech</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
 </head>
 <body>
     <style>
