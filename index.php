@@ -38,7 +38,7 @@ ob_end_clean();
     </style>
     <div id="arte">
     <h3>Consultar Empresas</h3>
-    <form action="index.php" method="post">
+    <form action="consultaCNPJ.php" method="post">
     criado por <a href="https://github.com/gabrielrtl" target="_blank">gabrielrtl</a> <br>
     CNPJ: <input type=text name=termo><input type=submit value="Enviar">
     </form> </br>
